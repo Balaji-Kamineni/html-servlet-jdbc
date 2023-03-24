@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+	<servlet-name>F</servlet-name>
+	<servlet-class>insertservlet</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>F</servlet-name>
+	<url-pattern>/dept.com</url-pattern>
+</servlet-mapping>
+</web-app>
